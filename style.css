@@ -1,5 +1,5 @@
 
-@media (max-width: 600px) {
+@media (max-width: 800px) {
     
 }body {
     margin: 0;
@@ -25,7 +25,7 @@
     align-items: center;
     justify-content: center;
     color: rgb(255, 255, 255);
-    font-size: 20vh;
+    font-size: 15vh;
     font-family: 'Bebas neue';
 
 
